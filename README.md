@@ -1,5 +1,5 @@
 # flask-practice
-Flask practice
+Flask practice (Flask(Jinja2, werkzeug), SQLAlchemy, sqlite3)
 
 Run
 ```sh
